@@ -1,0 +1,24 @@
+
+
+#app {
+    max-width: 1050px;
+    min-height: 600px;
+    padding: 100px;
+    margin: 100px auto;
+    background-color: #f8f8f8;
+    color: purple;
+    display: flex;
+	flex-direction: column;
+
+    .imgCont {
+        width: 100%;
+        height: auto;
+
+        .imgElem {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+
+}
